@@ -1,4 +1,4 @@
-// for the rotation of hands of a watch
+
 
 let hr = document.getElementById('hour');
 let min = document.getElementById('min');
